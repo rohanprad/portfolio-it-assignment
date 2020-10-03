@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+body{
+    font-family: Poppins, serif
+}
+
+
+.my-row {
+    padding: 2em;
+}
+
+.my-row-ed {
+    padding-bottom:0 ;
+}
+
+.education{
+    margin-left: 2em;
+    margin-top: 2em
+}
+
+.my-progress{
+    width: 75%;
+}
+
+.skill{
+    margin: 1em 0
+}
+
+.fa{
+    font-size:30px; 
+    color: gray; 
+    margin: 0 0.5em 
+}
+
+.fa:hover {
+    color: white;
+}
