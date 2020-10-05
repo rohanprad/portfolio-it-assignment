@@ -1,10 +1,10 @@
-Portfolio
+#Portfolio
 
-Introduction
+#Introduction
 
 This is a sample portfolio website I created for myself as Assignment 1 for the subject Internet Technologies during the 5th semester of my college. It includes a simple layout describing my educational history and the skills I possess.
 
-Technologies Used
+#Technologies Used
 
  HTML5
   	 Used to define a basic skeleton of the website
@@ -19,6 +19,6 @@ FONT AWESOME LIBRARY
 Used to add social media icons to the website
 
 
-GitHub
+#GitHub
 GitHub Repository
 GitHub Pages
