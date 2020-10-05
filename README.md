@@ -16,7 +16,7 @@ This is a sample portfolio website I created for myself as Assignment 1 for the 
  	 - Used as a CSS library for some pre-styled components
 
 - FONT AWESOME LIBRARY
- - Used to add social media icons to the website
+  - Used to add social media icons to the website
 
 
 # GitHub
